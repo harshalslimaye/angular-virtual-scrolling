@@ -1,0 +1,10 @@
+.box {
+  height: 250px;
+  width: 250px;
+  border: 1px solid #e3e3e3;
+  overflow: scroll;
+}
+
+.row {
+  height: 50px;
+}
